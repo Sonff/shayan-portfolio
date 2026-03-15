@@ -6,7 +6,7 @@ function scrollToOptions(id) {
 }
 
 (function () {
-  const fullName = "Vishwanath Nandakishore";
+  const fullName = "Shayan Sarkar";
   let arrayName = [];
   let i = 0;
 
